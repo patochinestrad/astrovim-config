@@ -11,10 +11,10 @@ mv ~/.config/nvim ~/.config/nvim.bak
 mv ~/.local/share/nvim ~/.local/share/nvim.bak
 ```
 
-#### Clone AstroNvim
+#### Clone this repo
 
 ```shell
-git clone https://github.com/AstroNvim/AstroNvim ~/.config/nvim
+git clone https://github.com/patochinestrad/astrovim-config ~/.config/nvim
 ```
 
 #### Added
