@@ -1,21 +1,9 @@
-# AstroNvim config patochinestrad
+# Astrovim config patochinestrad
 
-A user configuration template for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
+Config de [neovim](https://neovim.io/) basada en [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
-## 🛠️ Installation
+### Added deps/packages
+Defaults + Suda, Copilot, Python/Nim LSPs. CattpuccinDark Theme 
 
-#### Make a backup of your current nvim and shared folder
-
-```shell
-mv ~/.config/nvim ~/.config/nvim.bak
-mv ~/.local/share/nvim ~/.local/share/nvim.bak
-```
-
-#### Clone this repo
-
-```shell
-git clone https://github.com/patochinestrad/astrovim-config ~/.config/nvim
-```
-
-#### Added
-Defaults + Suda, Copilot, Python/Nim LSPs. CattpuccinDark Theme :) 
+### Notas
+Tambien esta el config para tmux 
