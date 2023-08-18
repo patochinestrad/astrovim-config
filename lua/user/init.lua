@@ -11,5 +11,5 @@ return {
   },
   {
     "alaviss/nim.nvim"
-  }
+  },
 }
